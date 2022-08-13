@@ -1,0 +1,13 @@
+Enter a string: kush
+False
+Enter a string: radar
+True
+Enter a string: warts n straw
+True
+Enter a string: this is not a palindrome
+False
+Enter a string: mom
+True
+Enter a string: dad
+True
+Enter a string: Exit

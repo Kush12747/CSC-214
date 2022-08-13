@@ -1,0 +1,26 @@
+Enter number of test scores: 5
+Enter test score 1: 23
+Enter test score 2: 88
+Enter test score 3: 34
+Enter test score 4: 12
+Enter test score 5: 48
+41.0
+
+Enter number of test scores: 4
+Enter test score 1: 74
+Enter test score 2: 99
+Enter test score 3: 73
+Enter test score 4: 23
+67.25
+
+Enter number of test scores: 3
+Enter test score 1: 93
+Enter test score 2: -4
+Enter test score 3: 200
+java.lang.IllegalArgumentException: Test Scores must have a value less than 100 and greater than 0.
+
+Enter number of test scores: 3
+Enter test score 1: 23
+Enter test score 2: 85
+Enter test score 3: 120
+java.lang.IllegalArgumentException: Test Scores must have a value less than 100 and greater than 0.

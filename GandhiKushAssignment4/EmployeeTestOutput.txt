@@ -1,0 +1,8 @@
+Employee: Name = Edgar, Salary = 65000.0
+Expected: Employee[name=Edgar,salary=65000.0]
+
+Manager: Employee: Name = Mary, Salary = 85000.0, Department = Engineering
+Expected: Manager[super=Employee[name=Mary,salary=85000.0],department=Engineering]
+
+Executive: Manager: Employee: Name = Veronica, Salary = 105000.0, Department = Engineering
+Expected: Executive[super=Manager[super=Employee[name=Veronica,salary=105000.0],department=Engineering]]

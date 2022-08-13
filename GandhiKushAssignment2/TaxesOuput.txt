@@ -1,0 +1,15 @@
+Are you Married(1) or Single(2)? 1
+Enter your income: 100000
+The Tax will be: 17800.0
+
+Are you Married(1) or Single(2)? 2
+Enter your income: 120000
+The Tax will be: 26400.0
+
+Are you Married(1) or Single(2)? 1
+Enter your income: 25000
+The Tax will be: 2950.0
+
+Are you Married(1) or Single(2)? 2
+Enter your income: 15000
+The Tax will be: 1850.0

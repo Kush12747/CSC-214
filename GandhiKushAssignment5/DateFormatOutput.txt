@@ -1,0 +1,29 @@
+Enter date in the format mm/dd: 10/31
+October 31
+
+Enter date in the format mm/dd: 02/29
+DayException: Invalid day number!
+
+Enter date in the format mm/dd: 13/23
+MonthException: Invalid month number!
+
+Enter date in the format mm/dd: 12/32
+DayException: Invalid day number!
+
+Enter date in the format mm/dd: 04/11
+April 11
+
+Enter date in the format mm/dd: 05/04
+May 4
+
+Enter date in the format mm/dd: 07/06
+July 6
+
+Enter date in the format mm/dd: 08/01
+August 1
+
+Enter date in the format mm/dd: 03/-1
+DayException: Invalid day number!
+
+Enter date in the format mm/dd: -2/05
+MonthException: Invalid month number!

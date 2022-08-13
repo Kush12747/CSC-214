@@ -1,0 +1,34 @@
+Enter an integer (-99 to stop): 1
+Enter an integer (-99 to stop): 1
+Enter an integer (-99 to stop): 2
+Enter an integer (-99 to stop): 3
+Enter an integer (-99 to stop): 5
+Enter an integer (-99 to stop): 8
+Enter an integer (-99 to stop): 13
+Enter an integer (-99 to stop): 21
+Enter an integer (-99 to stop): 34
+Enter an integer (-99 to stop): 55
+Enter an integer (-99 to stop): -99
+The smallest number was: 1
+The largest number was: 55
+
+
+Enter an integer (-99 to stop): 2
+Enter an integer (-99 to stop): 3
+Enter an integer (-99 to stop): 4
+Enter an integer (-99 to stop): 4
+Enter an integer (-99 to stop): 45
+Enter an integer (-99 to stop): 24
+Enter an integer (-99 to stop): 75
+Enter an integer (-99 to stop): 345
+Enter an integer (-99 to stop): 88
+Enter an integer (-99 to stop): 456
+Enter an integer (-99 to stop): 234
+Enter an integer (-99 to stop): 46
+Enter an integer (-99 to stop): 88
+Enter an integer (-99 to stop): 5
+Enter an integer (-99 to stop): 456
+Enter an integer (-99 to stop): 999
+Enter an integer (-99 to stop): -99
+The smallest number was: 2
+The largest number was: 999

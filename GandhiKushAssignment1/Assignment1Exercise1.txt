@@ -1,0 +1,5 @@
+10,000 days from my birthday is: Wed Nov 21 00:00:00 CST 2029
+
+100 days from today is: Thu Jun 09 12:16:52 CDT 2022
+
+The weekday of my birthday is: 4
